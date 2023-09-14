@@ -13,7 +13,7 @@ LiquidCrystal lcd(10, 8, 5, 4, 3, 2);
 #define ROWS 2 // Filas del LCD
 
 //array de lectura
-float lectura[3] = {0,0,0};
+float lectura[3] = {100,0,0};
 
 void setup() {
   Serial.begin(9600);
