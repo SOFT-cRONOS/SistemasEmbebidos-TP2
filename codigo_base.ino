@@ -1,4 +1,5 @@
-#Grupo 9
+//Grupo 9
+//Integrantes: Ríos patricia roxana, Matías José Rivadeneira y Donato Nicolas Miguel
 #include <LiquidCrystal.h>  //Carrega a biblioteca Pantalla
 #include <DHT.h> //Carrega a biblioteca DHT
 #define DHTPIN 13     // Pin donde está conectado el sensor
